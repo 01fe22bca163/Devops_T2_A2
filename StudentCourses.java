@@ -1,6 +1,6 @@
 public class StudentCourses {
 
-    private String[] courseCodes = { "C#", "ST", "ML", "DEVOPS", "MP" };
+    private String[] courseCodes = { "C#", "ST", "applied_statistics", "DEVOPS", "MP" };
     private int[] marks = { 85, 92, 75, 88, 95 };
 
     public void displayStudentMarks() {
